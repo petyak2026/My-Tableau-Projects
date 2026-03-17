@@ -1,18 +1,22 @@
-Tableau Project – Data Visualisation & Dashboard Development
+### Tableau Project – Data Visualisation & Dashboard Development
 
 This repository contains my work from a Tableau-focused training week within the Data Technician programme.
 The project showcases how I use Tableau Desktop and Tableau Public to build dashboards, explore datasets, identify trends, and communicate insights visually.
 
-🚀 Skills Demonstrated
+[My Tableau Dashboard](<img width="1422" height="709" alt="Screenshot 2026-03-17 123159" src="https://github.com/user-attachments/assets/89f3caf1-cc37-4395-b835-6ab2b293d69f" />)
 
-✔️ Tableau Dashboard Design
+
+
+## 🚀 Skills Demonstrated
+
+# ✔️ Tableau Dashboard Design
 
 Building multi‑chart dashboards
 Combining bar charts, maps, KPIs, and filters
 Designing layouts for clarity and usability
 Publishing and sharing dashboards
 
-✔️ Data Visualisation Techniques
+# ✔️ Data Visualisation Techniques
 
 Bar charts
 Line charts
@@ -21,7 +25,7 @@ Scatter plots
 Trend analysis visuals
 Using colour, hierarchy, and formatting for storytelling
 
-✔️ Data Analysis
+# ✔️ Data Analysis
 
 Identifying patterns and trends across large datasets
 Understanding relationships such as:
@@ -30,7 +34,7 @@ BMI vs health outcomes (Health dataset)
 Interpreting datasets to support decision‑making
 Evaluating what insights matter for organisations
 
-✔️ Tableau Versions & Understanding Tool Capabilities
+# ✔️ Tableau Versions & Understanding Tool Capabilities
 
 Differences between:
 Tableau Desktop
@@ -44,14 +48,14 @@ Reduced data connection options
 Limited permissions and publishing control
 No local saving (cloud-only)
 
-📁 Project Contents
+## 📁 Project Contents
 EMSI Job Change analysis (bar chart + UK map)
 Spotify dataset dashboard & insights
 NHS Health dataset analysis & recommendations
 Screenshots of dashboards created
 Notes and reflections
 
-🧠 Key Learning Outcomes
+## 🧠 Key Learning Outcomes
 Throughout this Tableau project, I strengthened my ability to:
 
 Turn raw data into interactive dashboards
