@@ -3,7 +3,9 @@
 This repository contains my work from a Tableau-focused training week within the Data Technician programme.
 The project showcases how I use Tableau Desktop and Tableau Public to build dashboards, explore datasets, identify trends, and communicate insights visually.
 
-[My Tableau Dashboard](<img width="1422" height="709" alt="Screenshot 2026-03-17 123159" src="https://github.com/user-attachments/assets/89f3caf1-cc37-4395-b835-6ab2b293d69f" />)
+# [My Tableau Dashboard](https://public.tableau.com/app/profile/p.angelova/viz/Week2Day2worksheets/HealthTrends)
+
+<img width="1422" height="709" alt="Screenshot 2026-03-17 123159" src="https://github.com/user-attachments/assets/018e5a05-4ea9-4d64-aec7-a6a1498d628b" />
 
 
 
