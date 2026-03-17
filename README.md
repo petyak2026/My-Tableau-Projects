@@ -7,6 +7,9 @@ The project showcases how I use Tableau Desktop and Tableau Public to build dash
 
 <img width="1422" height="709" alt="Screenshot 2026-03-17 123159" src="https://github.com/user-attachments/assets/018e5a05-4ea9-4d64-aec7-a6a1498d628b" />
 
+<img width="1570" height="973" alt="Screenshot 2026-03-17 141611" src="https://github.com/user-attachments/assets/901738cc-ddbb-4467-b382-1141707be000" />
+
+
 
 
 ## 🚀 Skills Demonstrated
